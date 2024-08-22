@@ -7,3 +7,7 @@ python -m pip install twine >>>> instala o twine
 python -m pip install setuptools >>> instala setuptools
 <br>
 python setup.py sdist bdist_wheel >>>> cria a distribuição
+<br>
+python -m twine upload --repository-url https://test.pypi.org/legacy/ dist/* >>>>sobe sua distribuição para test pypi
+<br>
+
