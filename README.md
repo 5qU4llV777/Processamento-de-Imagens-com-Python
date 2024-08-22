@@ -36,3 +36,6 @@ Claudio  nogueira
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+[link do pypi](https://pypi.org/project/image-processingv777/0.0.2/)
