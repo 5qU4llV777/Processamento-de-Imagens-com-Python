@@ -1,16 +1,27 @@
 # Image_processing
 
-Description. 
+Description.
+<br>
 The package image_processing is used to:
+<br>
     Processing:
-	     -Histrogram matching 
+    <br>
+	     -Histrogram matching
+              <br>
 	     -Structural similarity
+             <br> 
          -Resize image
+	 <br>
     Utils:
+    <br>
          -Read image
+	 <br>
          -Save image
+	 <br>
          -Plot image
+	 <br>
          -Plot result
+	 <br>
          -Plot histogram
 
 ## Installation
