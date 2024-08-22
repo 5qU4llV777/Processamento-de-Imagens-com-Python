@@ -10,4 +10,4 @@ python setup.py sdist bdist_wheel >>>> cria a distribuição
 <br>
 python -m twine upload --repository-url https://test.pypi.org/legacy/ dist/* >>>>sobe sua distribuição para test pypi
 <br>
-
+python -m twine upload --repository-url https://upload.pypi.org/legacy/ dist/* >>>>sobe sua distribuição para pypi
